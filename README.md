@@ -36,5 +36,6 @@ A responsive Power Apps Canvas App with SharePoint backend.
 Streamlined guest management, eliminated manual tracking, and delivered a seamless experience.
 
 
-
+## 📥 Installation
+See [INSTALLATION.md](solution/INSTALLATION.md) for step‑by‑step setup instructions.
 
